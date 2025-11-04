@@ -24,10 +24,10 @@ The workshop demonstrates how to extract text from PDFs, chunk and index the con
 | `0.About-me.ipynb`                                        | Workshop introduction and presenter info              |
 | `1.Introduction-to-LLMs-And-RAG.ipynb`                    | Overview of LLMs and RAG concepts                     |
 | `2.GettingStarted-with-Open-Source-LLMs.ipynb`            | Practical intro to running and choosing open-source models         |
-| `3.RAG-Workflow.ipynb`                                    | Step-by-step explanation of RAG architecture          |
+| `3.RAG-Workflow.ipynb`                                    | Explanation of RAG architecture          |
 | `4.Parsing-PDFs.ipynb`                                    | Extracting and cleaning text from Persian PDFs        |
-| `5.Implement_RAG.ipynb`                                   | Building a RAG system from scratch                    |
-| `8.More-Advanced-RAG.ipynb`                               | Experimenting with more advanced methods, Parent-Child Retriever, GraphRAG, etc. |
+| `5.Implement_RAG.ipynb`                                   | Building a RAG system                    |
+| `8.More-Advanced-RAG.ipynb`                               | Explanation of more advanced methods, Parent-Child Retriever, GraphRAG, etc. |
 | `7.streamlit_ui.py`                                       | Minimal chatbot UI built with Streamlit               |
 | `data-sources/`                                           | Sample PDF regulation document used in the workshop  |
 | `docling-pdf-parse/`                                       | Parsing PDF using docling
