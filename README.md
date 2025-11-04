@@ -74,8 +74,6 @@ You may extend this project by:
 
 ## Author
 
-**Ali Moameri**
-Software Engineer & NLP Researcher
-Master's Student at Ferdowsi University of Mashhad
+Ali Moameri; Software Engineer & NLP Researcher
 
 ---
