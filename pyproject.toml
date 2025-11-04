@@ -1,0 +1,20 @@
+[project]
+name = "chapter01-intrudocion-to-llms-and-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "docling>=2.58.0",
+    "flagembedding>=1.3.5",
+    "ipywidgets>=8.1.7",
+    "langchain-core==0.3.19",
+    "langchain-docling>=1.1.0",
+    "ollama>=0.6.0",
+    "pycryptodome>=3.23.0",
+    "pypdf>=6.1.3",
+    "pypdf2>=3.0.1",
+    "ruff>=0.14.2",
+    "shekar>=1.0.0",
+    "tesserocr>=2.9.1",
+]
